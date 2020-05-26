@@ -1,0 +1,9 @@
+data_classification:
+  - company_proprietary
+poc:
+  - name: Justin Vetter
+    email: justin.vetter@maxar.com
+  - name: Kelly Schroeder
+    email: kelly.schroeder@maxar.com
+  - name: Tyler Williams
+    email: tyler.williams@maxar.com
